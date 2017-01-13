@@ -1,0 +1,58 @@
+
+.hello-row{
+    margin-top: 20%;
+    color: black;
+}
+
+.name{
+    color: white
+}
+
+.panel{
+    background-color: slategrey;
+}
+
+.topbuffer{
+    margin-top: 10px;
+}
+
+.main {
+    margin-bottom: 0px;
+    background-image: url(https://source.unsplash.com/random);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+.faceshot{
+    border-radius: 50%;
+    width: 15%;
+    
+}
+
+
+
+.yessir{
+    margin-left: 40px;
+    margin-right: 40px; 
+    color: white;
+}
+
+.vertical-center{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.half-page{
+    height: 50%;
+    height: 50vh;
+}
+
+.black-row{
+
+background-color: darkslategrey;
+color: white;
+border-top: 5px;
+}
