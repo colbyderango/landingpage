@@ -26,6 +26,7 @@ body{
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.1em 0.1em 0.1em;
+    
    
     
     
@@ -51,8 +52,8 @@ body{
     align-items: center;
 }
 .half-page{
-    height: 50%;
-    height: 50vh;
+    height: 35%;
+    height: 35vh;
 }
 
 .black-row{
@@ -63,15 +64,18 @@ color: white;
 }
 
 .well{
-    background-image: url(https://source.unsplash.com/random)
+    background-image: url(http://xinature.com/wp-content/uploads/2016/10/winter-trees-dark-cold-snow-forest-nature-wall-white-black-desktop-wallpapers-backgrounds-1920x1080.jpg);
+    color: white;
+    text-shadow: dimgrey 0.3em 0.3em 0.3em;
 }
+
 
 .thirdrow{
     background-color: black 
 }
 
 .fa{
-    color: grey;
+    color: darkslategray;
     padding: 2px;
    
 }
